@@ -1,0 +1,10 @@
+<suite name="PlaywrightSuite">
+	<test name="tests">
+		<classes>
+			<class name="tests.FirstTest">
+
+			</class>
+			<class name="tests.LoginTest"></class>
+		</classes>
+	</test>
+</suite>
